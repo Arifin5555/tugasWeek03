@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='c:\BelajarSelenium\Tugas_Week03/screenshots/init_before.png' target='_blank'>Screnshoot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br /><img src='c:\BelajarSelenium\Tugas_Week03/screenshots/init_before.png' style='width: 20vw;' />]]>
+    </line>
+    <line>
+      <![CDATA[<a href='c:\BelajarSelenium\Tugas_Week03/screenshots/init_after.png' target='_blank'>Screnshoot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br /><img src='c:\BelajarSelenium\Tugas_Week03/screenshots/init_after.png' style='width: 20vw;' />]]>
+    </line>
+    <line>
+      <![CDATA[<a href='c:\BelajarSelenium\Tugas_Week03/screenshots/rightDragdrop_before.png' target='_blank'>Screnshoot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br /><img src='c:\BelajarSelenium\Tugas_Week03/screenshots/rightDragdrop_before.png' style='width: 20vw;' />]]>
+    </line>
+    <line>
+      <![CDATA[<a href='c:\BelajarSelenium\Tugas_Week03/screenshots/rightDragdrop_after.png' target='_blank'>Screnshoot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br /><img src='c:\BelajarSelenium\Tugas_Week03/screenshots/rightDragdrop_after.png' style='width: 20vw;' />]]>
+    </line>
+    <line>
+      <![CDATA[<a href='c:\BelajarSelenium\Tugas_Week03/screenshots/leftDragdrop_before.png' target='_blank'>Screnshoot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br /><img src='c:\BelajarSelenium\Tugas_Week03/screenshots/leftDragdrop_before.png' style='width: 20vw;' />]]>
+    </line>
+    <line>
+      <![CDATA[<a href='c:\BelajarSelenium\Tugas_Week03/screenshots/leftDragdrop_after.png' target='_blank'>Screnshoot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br /><img src='c:\BelajarSelenium\Tugas_Week03/screenshots/leftDragdrop_after.png' style='width: 20vw;' />]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-06-03T16:50:37 WIB" name="Suite Test Web eCommerce" finished-at="2025-06-03T16:51:18 WIB" duration-ms="41611">
+    <groups>
+    </groups>
+    <test started-at="2025-06-03T16:50:37 WIB" name="Tugas Week 03" finished-at="2025-06-03T16:51:18 WIB" duration-ms="41611">
+      <class name="com.juaracoding.week03.QuizDragDropTest">
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:com.juaracoding.week03.QuizDragDropTest@758705fa]" started-at="2025-06-03T16:50:37 WIB" name="init" finished-at="2025-06-03T16:50:45 WIB" duration-ms="8769" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.dhtmlgoodies.com/scripts/drag-drop-custom/demo-drag-drop-3.html]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='c:\BelajarSelenium\Tugas_Week03/screenshots/init_after.png' target='_blank'>Screnshoot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br /><img src='c:\BelajarSelenium\Tugas_Week03/screenshots/init_after.png' style='width: 20vw;' />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="rightDragdrop()[pri:1, instance:com.juaracoding.week03.QuizDragDropTest@758705fa]" started-at="2025-06-03T16:50:45 WIB" name="rightDragdrop" finished-at="2025-06-03T16:51:02 WIB" duration-ms="16290" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='c:\BelajarSelenium\Tugas_Week03/screenshots/rightDragdrop_before.png' target='_blank'>Screnshoot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br /><img src='c:\BelajarSelenium\Tugas_Week03/screenshots/rightDragdrop_before.png' style='width: 20vw;' />]]>
+            </line>
+            <line>
+              <![CDATA[<a href='c:\BelajarSelenium\Tugas_Week03/screenshots/rightDragdrop_after.png' target='_blank'>Screnshoot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br /><img src='c:\BelajarSelenium\Tugas_Week03/screenshots/rightDragdrop_after.png' style='width: 20vw;' />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- rightDragdrop -->
+        <test-method signature="leftDragdrop()[pri:2, instance:com.juaracoding.week03.QuizDragDropTest@758705fa]" started-at="2025-06-03T16:51:02 WIB" name="leftDragdrop" finished-at="2025-06-03T16:51:18 WIB" duration-ms="16143" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='c:\BelajarSelenium\Tugas_Week03/screenshots/leftDragdrop_before.png' target='_blank'>Screnshoot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br /><img src='c:\BelajarSelenium\Tugas_Week03/screenshots/leftDragdrop_before.png' style='width: 20vw;' />]]>
+            </line>
+            <line>
+              <![CDATA[<a href='c:\BelajarSelenium\Tugas_Week03/screenshots/leftDragdrop_after.png' target='_blank'>Screnshoot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br /><img src='c:\BelajarSelenium\Tugas_Week03/screenshots/leftDragdrop_after.png' style='width: 20vw;' />]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- leftDragdrop -->
+      </class> <!-- com.juaracoding.week03.QuizDragDropTest -->
+    </test> <!-- Tugas Week 03 -->
+  </suite> <!-- Suite Test Web eCommerce -->
+</testng-results>
